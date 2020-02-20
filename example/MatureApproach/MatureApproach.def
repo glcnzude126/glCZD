@@ -1,4 +1,0 @@
-LIBRARY	"MatureApproach"
-EXPORTS
-CreateExportObj @ 1
-DestroyExportObj @ 2
